@@ -23,7 +23,7 @@ Este análisis permitirá obtener información valiosa para la toma de decisione
 |Leonardo David Joaquín Rodríguez|U202213866|
 
 ## Descripción del Dataset
-![avt](https://github.com/user-attachments/assets/729353c2-4e6a-462e-86cd-e17b64f00f39)
+
 El conjunto de datos Hotel Booking Demand recopila información sobre reservas de dos tipos de hoteles: un hotel urbano y un resort. Contiene detalles relacionados con la fecha de la reserva, la duración de la estancia, el número de adultos, niños, y bebés incluidos en la reserva, la cantidad de plazas de estacionamiento disponibles, el tipo de habitación, entre otros datos relevantes para la administración hotelera.
 
 El dataset ha sido modificado específicamente para este trabajo, incorporando ruido en forma de datos faltantes (NA) y valores atípicos (outliers), lo cual añade complejidad al análisis. Estos datos proporcionan una oportunidad para realizar tareas de preprocesamiento, como la imputación de valores faltantes y la gestión de outliers.
