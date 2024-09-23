@@ -1,13 +1,13 @@
 # CC216--TP-2024-2
 
 ## Índice 
-[1. Objetivo](https://github.com/coshiiiiiiiiii/CC216--TP-2024-2/edit/main/README.md#objetivo)
+[1. Objetivo](README.md#objetivo)
 
-[2. Integrantes](https://github.com/coshiiiiiiiiii/CC216--TP-2024-2/edit/main/README.md#integrantes)
+[2. Integrantes](README.md#integrantes)
 
-[3. Descripción del Dataset](https://github.com/coshiiiiiiiiii/CC216--TP-2024-2/edit/main/README.md#descripci%C3%B3n-del-dataset)
+[3. Descripción del Dataset](README.md#descripci%C3%B3n-del-dataset)
 
-[4. Conclusiones](https://github.com/coshiiiiiiiiii/CC216--TP-2024-2/edit/main/README.md#conclusiones)
+[4. Conclusiones](README.md#conclusiones)
 
 ## Objetivo
 El objetivo del TP es realizar un análisis exploratorio de datos (EDA) grupal, utilizando el conjunto de datos Hotel Booking Demand. Este análisis se llevará a cabo mediante el uso de R/RStudio, con el fin de explorar la estructura del dataset, identificar datos faltantes y atípicos, y generar visualizaciones que permitan extraer conclusiones iniciales. A través de este análisis, se busca comprender los patrones de demanda de reservas de hoteles urbanos y resorts, así como identificar tendencias relevantes, como el comportamiento de las reservas a lo largo del tiempo, las temporadas de mayor y menor demanda, y el impacto de variables como la cantidad de niños y plazas de estacionamiento disponibles.
